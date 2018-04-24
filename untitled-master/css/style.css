@@ -99,7 +99,6 @@ body {
 	text-align: center;
 }
 .fa {
-    padding: 10px;
     font-size: 30px;
     width: 50px;
     text-align: center;
@@ -111,11 +110,13 @@ body {
 }
 
 .fa-facebook {
+    padding: 10px;
     background: #3B5998;
     color: white;
 }
 
 .fa-instagram {
+	padding: 10px;
 	opacity: 0.8;
 	background: linear-gradient(-25deg, yellow, red, blue);
 	color: white;
